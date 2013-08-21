@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Elliot Shepherd -- Developer -- elliot@jarofworms.com
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Mapping
+    jQuery, Modernizr, Leaflet.JS, LESS
